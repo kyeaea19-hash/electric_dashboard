@@ -1,0 +1,6 @@
+{
+  "name": "실시간 전기 시세",
+  "description": "실시간 계통한계가격(SMP), 지역별 전력 시세, 시간대별 추이 및 발전원 구성을 확인하는 스마트폰 최적화 전력 시장 대시보드",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
